@@ -29,4 +29,4 @@ MIT License – See `LICENSE`
 
 ## 🧙 Author
 **CyberGrandpa 👑**  
-Follow me on [Twitter/X @cybergrandpa](https://twitter.com/cybergrandpa)
+Follow me on [Twitter/X @cybergrandpa](https://twitter.com/cybergrandpa__)
