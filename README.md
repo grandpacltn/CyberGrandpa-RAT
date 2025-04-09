@@ -1,18 +1,3 @@
-CyberGrandpa-RAT/
-├── README.md
-├── LICENSE (MIT)
-├── client/
-│   ├── client.py
-│   ├── keylogger.py
-│   ├── webcam.py
-│   └── screenshot.py
-├── server/
-│   └── server.py
-├── builder/
-│   └── build_exe_guide.md
-├── lab_setup/
-│   └── how_to_test_in_vm.md
-└── requirements.txt
 
 # README.md
 
